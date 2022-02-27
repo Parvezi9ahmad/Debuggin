@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\STS debugging\.metadata\.plugins\org.eclipse.jdt.core
+2813144664.index
+1602128660.index
